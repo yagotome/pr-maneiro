@@ -239,7 +239,13 @@ const Persons = {
     username: 'dadodolabeIla',
     msg: 'Tu traiu o movimento Clean Code, véio!',
     image: 'https://i.imgur.com/YsLeAi9.jpg'
-  }
+  },
+  serjaoberranteiro: {
+    name: 'Serjão Berranteiro - Matador de Onças',
+    username: 'serjaoberranteiro',
+    msg: 'Aqui tem coragem!',
+    image: 'https://i.imgur.com/NE2dbrV.jpg'
+  },
 }
 
 if (typeof module === 'object') {
